@@ -1,7 +1,7 @@
 # ZenMon: Linux System Monitor GUI
 
 A **cross-distro Bash-based system monitoring tool** with a graphical interface powered by **Zenity**.  
-ZenMon provides real-time insights about your system such as CPU, RAM, battery, disk, network usage, hardware info, and more — all accessible via a simple GUI.
+ZenMon provides real-time insights about your system such as CPU, RAM, battery, disk, network usage, hardware info, and more : all accessible via a simple GUI.
 
 ---
 
