@@ -28,3 +28,14 @@ Clone the repository:
 ```bash
 git clone https://github.com/rudraThakar/ZenMon-Linux-System-Monitor-GUI.git
 cd ZenMon-Linux-System-Monitor-GUI
+```
+
+Make the script executable:
+```bash
+chmod +x system_monitor.sh
+```
+
+Run the script:
+```bash
+./system_monitor.sh
+```
